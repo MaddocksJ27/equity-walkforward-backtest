@@ -56,7 +56,7 @@ Interpretation:
 - Adding an exit rule improved risk-adjusted performance and roughly halved max drawdown while slightly reducing turnover.
 
 ## How to run
-- Use the notebook in `notebooks/` to:
+- Open notebooks/01_stooq_walkforward.ipynb and run top-to-bottom:
   1) download prices
   2) compute features/signals
   3) run walk-forward backtests
